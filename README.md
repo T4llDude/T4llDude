@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T4llDude
 - 👀 I’m interested in Data Analytics, Data Engineering, and Database Development.
-- ⚒️ I specialize in using SQL on Microsoft SQL Server to build interactive reports and dashboards.
+- ⚒️ I specialize in using T-SQL on Microsoft SQL Server to build data warehouses, data marts, and interactive reports.
 - 🌱 I’m currently learning how to use Python to perform ETL operations and manipulate datasets.
 
 <!---
